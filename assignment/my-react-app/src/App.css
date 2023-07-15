@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding: 1rem;
+}
+
+button {
+  margin-bottom: 1rem;
+}
+
+textarea {
+  width: 100%;
+}
+
+footer {
+  margin-top: 2rem;
+}
